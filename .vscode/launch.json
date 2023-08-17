@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "DSA.BubbleSort",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "MatrixTransposeExample",
+            "request": "launch",
+            "mainClass": "SlovedProblems.Tranpose.MatrixTransposeExample",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "TransPoseMatrix",
+            "request": "launch",
+            "mainClass": "SlovedProblems.Tranpose.TransPoseMatrix",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "reminder",
+            "request": "launch",
+            "mainClass": "SlovedProblems.Shopkeeper.reminder",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExample",
+            "request": "launch",
+            "mainClass": "SlovedProblems.Function.FunctionExample",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "SlovedProblems.hello",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "Countprg",
+            "request": "launch",
+            "mainClass": "SlovedProblems.FrequencyCount.Countprg",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "SlovedProblems.FrequencyCount.Count",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAddition",
+            "request": "launch",
+            "mainClass": "SlovedProblems.MatrixProblem.MatrixAddition",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "MaximumElementMatrix",
+            "request": "launch",
+            "mainClass": "SlovedProblems.Maximumelement.MaximumElementMatrix",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "TransPoseMatrix",
+            "request": "launch",
+            "mainClass": "SlovedProblems.TranposeMatrix.TransPoseMatrix",
+            "projectName": "FACE_PREP Solving problems"
+        },
+        {
+            "type": "java",
+            "name": "TwoArrayInpt",
+            "request": "launch",
+            "mainClass": "Twoarrayinput.TwoArrayInpt",
+            "projectName": "FACE_PREP Solving problems"
+        }
+    ]
+}
